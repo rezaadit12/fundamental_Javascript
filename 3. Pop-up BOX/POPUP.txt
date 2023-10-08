@@ -1,0 +1,14 @@
+Pop-Up box
+
+adalah sebuah window kecil pada sebuah browser yang dapat kita munculkan
+sebagai alat interaksi agar user bisa berdialog dengan halaman web
+
+
+Ada 3 jenis Pop-up box yaitu: 
+
+- alert
+- confirm
+- prompt
+
+
+alert = alert('hello world!');

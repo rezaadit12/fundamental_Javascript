@@ -1,0 +1,11 @@
+Control Flow
+
+Control Flow bisa disebut juga alur kendali dari suatu program
+
+di dalam pemrograman ada yang disebut normal flow(alur normal):
+yaitu pengeksekusian kode dari atas ke bawah atau dari kiri ke kanan
+
+Kita bisa membuat alurnya tidak berurutan seperti di atas, caranya 
+dengan menggunakan sesuatu yang dinamakan pengulangan dan pengkondisian
+
+

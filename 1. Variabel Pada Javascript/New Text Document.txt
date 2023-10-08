@@ -1,0 +1,13 @@
+untuk memahami variabel kita harus paham: 
+
+- Deklarasi	: Mendaftarkan variabel ke dalam lingkup yang sesuai
+- Inisialisasi	: Menyediakan memori untuk variabel
+- Assignment 	: Menetapkan nilai yang spesifik ke dalam variabel
+
+
+
+untuk mendeklarasikan variabel terdapat 3 keyword: 
+
+- var
+- let
+- const   
